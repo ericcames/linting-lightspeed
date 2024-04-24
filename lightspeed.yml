@@ -27,4 +27,3 @@
     # - name: configure bgp on ios using ios_bgp
 
     # - name: Merge provided OSPF Interfaces configuration
-...
